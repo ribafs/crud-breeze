@@ -54,6 +54,8 @@ https://github.com/appzcoder/crud-generator
 
 php artisan key:generate
 
+npm install
+
 npm run dev
 
 Abra outra janela do terminal/prompt, se no Mint pode criar uma segunda aba com Ctrl+Shift+T
