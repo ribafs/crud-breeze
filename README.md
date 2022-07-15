@@ -2,6 +2,8 @@
 
 ## Meu primeiro CRUD com Breeze e Tailwind
 
+![](crud-breeze.png)
+
 Estou usando a versão 9.20.0 do Laravel
 
 Segui o tutorial abaixo
