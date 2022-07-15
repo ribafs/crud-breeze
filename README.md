@@ -54,6 +54,14 @@ https://github.com/appzcoder/crud-generator
 
 php artisan key:generate
 
+npm run dev
+
+Abra outra janela do terminal/prompt, se no Mint pode criar uma segunda aba com Ctrl+Shift+T
+
+Obs.: esta mudança do laravel 9, exigindo que se abra outra janela tem um efeito positivo. As alterações agora, depois de salvas não mais exigem que se atualize a página do navegador, ela se atualiza automaticamente.
+
+Execute
+
 php artisan serve
 
 http://127.0.0.1:8000/register
