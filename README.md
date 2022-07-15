@@ -26,7 +26,19 @@ Copiei o .env.example para .env e deixei a configuração assim:
 DB_CONNECTION=sqlite
 DB_DATABASE=/home/ribafs/crud-breeze/database/database.sqlite
 
+php artisan migrate
+
+## Factory
+
+Criei um factory para post e podemos fazer
+
+php artisan tinker
+
+Post::factory()->count(20)->create()
+
 Segui o tutorial e criei este aplicativo (veja detalhes no link acima)
+
+## Menu principal
 
 Usei o arquivo abaixo como menu
 
@@ -37,6 +49,8 @@ resources/views/layouts/navigation.blade.php
 Adaptei do código gerado pelo 
 
 https://github.com/appzcoder/crud-generator
+
+## Testando
 
 php artisan key:generate
 
