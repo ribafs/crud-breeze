@@ -17,7 +17,7 @@ php artisan breeze:install
 npm install
 npm run build
 ```
-Criar o arquivo para a SQLite
+Criar o arquivo para a SQLite. Se preferir use MySQL ou outro suportado
 
 touch database/database.sqlite
 
