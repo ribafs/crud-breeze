@@ -4,6 +4,12 @@
 
 ![](crud-breeze.png)
 
+## Usando Bootstrap
+
+![](pagination-bs.png)
+
+Ainda não conseguir fazer assim com Tailwind
+
 Estou usando a versão 9.20.0 do Laravel
 
 Segui o tutorial abaixo
