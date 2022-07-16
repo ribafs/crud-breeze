@@ -10,6 +10,10 @@
 
 Ainda não conseguir fazer assim com Tailwind
 
+## Chegando perto
+
+![](page-tai.png)
+
 Estou usando a versão 9.20.0 do Laravel
 
 Segui o tutorial abaixo
